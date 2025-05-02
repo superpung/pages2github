@@ -2,9 +2,7 @@
 
 *Show me your code!* Access the GitHub profile from `*.github.io` sites.
 
-![preview](./docs/preview.gif)
-
-> Example: Visiting `https://skyzh.github.io` shows a button linking to `https://github.com/skyzh`.
+<img alt="preview" src="./docs/preview.gif" width="70%" style="display: block; margin: 0 auto;"/>
 
 ## Installation
 
