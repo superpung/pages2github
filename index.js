@@ -32,7 +32,6 @@
     right: 0;
     z-index: 9999;
     background-color: #24292e;
-    color: white;
     padding: 10px;
     border-top-left-radius: 8px;
     border-bottom-left-radius: 8px;
@@ -53,6 +52,7 @@
   }
   .gh-username {
     opacity: 0;
+    color: white;
     transition: opacity 0.3s ease;
     white-space: nowrap;
   }
