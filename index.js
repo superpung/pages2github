@@ -21,6 +21,8 @@
   const match = host.match(/^([a-zA-Z0-9-]+)\.github\.io$/);
   if (!match || !match[1]) return;
 
+  if (window.top !== window.self) return;
+
   const username = match[1];
   const githubUrl = `https://github.com/${username}`;
 
