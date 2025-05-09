@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Pages to GitHub
 // @namespace    https://greasyfork.org/en/scripts/534709-pages-to-github
-// @version      0.1.4
+// @version      0.1.5
 // @description  Access the GitHub profile from *.github.io site
 // @author       Super Lee (https://github.com/superpung)
 // @license      MIT
